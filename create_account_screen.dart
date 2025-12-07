@@ -31,7 +31,7 @@ class CreateAccountScreen extends StatelessWidget {
                 
                 const SizedBox(height: 50.0),
                 Image.asset(
-                  'assets/logo.png', 
+                  'images.png', 
                   height: 150, 
                   width: 150
                 ),
